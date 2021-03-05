@@ -1,0 +1,2 @@
+(library (public_name re2_serializable) (name re2_serializable)
+ (libraries core_kernel re2) (preprocess (pps ppx_jane)))
